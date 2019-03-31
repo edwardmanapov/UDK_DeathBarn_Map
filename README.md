@@ -7,11 +7,11 @@ The strategic elements of core areas of this map are basically common for both t
 
 ![GitHub Logo](/Markdown/0.jpg)
 
-![GitHub Logo](/Markdown/1.jpg)
-
 ![GitHub Logo](/Markdown/2.jpg)
 
 ![GitHub Logo](/Markdown/3.jpg)
+
+![GitHub Logo](/Markdown/1.jpg)
 
 
 ## Philosophies of Design
